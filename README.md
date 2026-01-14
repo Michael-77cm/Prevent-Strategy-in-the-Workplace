@@ -11,7 +11,7 @@ Informational website about the UK Prevent strategy in workplace settings.
 - **Responsive Design**: Mobile-first approach
 
 ## AI Assistance Disclosure
-The codebase for this website was generated with significant assistance from OpenAI's ChatGPT (GPT-4 model). The AI was used for:
+The codebase for this website was generated with significant assistance from OpenAI's DeepSeek. The AI was used for:
 
 - HTML structure and Bootstrap implementation
 - CSS custom styling and responsive design
@@ -32,8 +32,8 @@ Human developer contributions included:
 ## License
 This code is provided for educational/demonstration purposes.
 
-References & Credits for Prevent Strategy Website
-1. Framework & Libraries
+## References & Credits for Prevent Strategy Website
+## 1. Framework & Libraries
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
 
 Source: https://getbootstrap.com/
@@ -50,7 +50,7 @@ License: Font Awesome Free License (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: 
 
 CDN: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
 
-2. Content Sources & References
+## 2. Content Sources & References
 UK Government Resources
 UK Government Prevent Duty Guidance
 
@@ -89,14 +89,14 @@ URL: https://images.unsplash.com/photo-1553877522-43269d4ea984
 
 Note: Gradient overlay applied for visual effect
 
-3. Reporting & Contact Information
+## 3. Reporting & Contact Information
 Emergency Services Number: 999 (UK standard)
 
 Non-emergency Police Number: 101 (UK standard)
 
 Official Reporting Portal: https://www.gov.uk/report-terrorism
 
-4. Code & Development References
+## 4. Code & Development References
 Bootstrap Documentation
 Grid System: https://getbootstrap.com/docs/5.3/layout/grid/
 
@@ -111,7 +111,7 @@ Flexbox: CSS-Tricks Guide to Flexbox
 
 Responsive Design Principles: W3C Web Accessibility Initiative
 
-5. Content Guidance & Best Practices
+## 5. Content Guidance & Best Practices
 Prevent Strategy Information
 Home Office Prevent Guidance for England and Wales
 
@@ -126,7 +126,7 @@ Care Act 2014 (Safeguarding adults)
 
 Channel Programme Guidance (Multi-agency safeguarding programme)
 
-6. Accessibility Standards
+## 6. Accessibility Standards
 Web Content Accessibility Guidelines (WCAG) 2.1
 
 Level AA compliance targeted
@@ -139,7 +139,7 @@ Implemented via Bootstrap components
 
 Enhanced screen reader support
 
-7. Legal & Compliance References
+## 7. Legal & Compliance References
 Data Protection Act 2018
 
 General Data Protection Regulation (GDPR)
@@ -148,7 +148,7 @@ Equality Act 2010
 
 Counter-Terrorism and Security Act 2015 (Prevent Duty)
 
-8. Design Inspiration & UI/UX
+## 8. Design Inspiration & UI/UX
 GOV.UK Design System
 
 UK government design standards
@@ -159,7 +159,7 @@ NHS Digital Service Manual
 
 Accessibility and usability standards
 
-9. Disclaimer & Usage Notes
+## 9. Disclaimer & Usage Notes
 Important Disclaimers for This Demo Site:
 This is a demonstration/educational website only
 
@@ -184,7 +184,7 @@ Policies may vary between England, Wales, Scotland, and Northern Ireland
 
 Always verify with current official sources
 
-10. Development Tools & Testing
+## 10. Development Tools & Testing
 Browser Testing: Chrome, Firefox, Safari, Edge
 
 Responsive Testing: Chrome DevTools, Bootstrap breakpoints
@@ -193,7 +193,7 @@ Code Validation: HTML5, CSS3 standards
 
 Performance: Lightweight implementation (no unnecessary dependencies)
 
-11. Suggested Additional Resources for Real Implementation
+## 11. Suggested Additional Resources for Real Implementation
 Official Training Resources:
 WRAP (Workshop to Raise Awareness of Prevent)
 
