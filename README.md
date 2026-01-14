@@ -5,6 +5,9 @@
 ## Project Overview
 Informational website about the UK Prevent strategy in workplace settings.
 
+## View Live Demo of Website on: 
+https://michael-77cm.github.io/Prevent-Strategy-in-the-Workplace/
+
 ## Development
 - **Framework**: Bootstrap 5.3.0
 - **Icons**: Font Awesome 6.4.0
