@@ -1,4 +1,4 @@
-# Flagstone-Project-2511
+# CI Flagstone-Project-2511
 
 # Prevent Strategy in the Workplace Website
 
@@ -39,6 +39,11 @@ This code is provided for educational/demonstration purposes.
 |
 | ---------------------|      | ------------------------------------------------------
 -------|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
 
