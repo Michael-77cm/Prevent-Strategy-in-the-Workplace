@@ -11,7 +11,7 @@ Informational website about the UK Prevent strategy in workplace settings.
 - **Responsive Design**: Mobile-first approach
 
 ## AI Assistance Disclosure
-The codebase for this website was generated with significant assistance from OpenAI's DeepSeek. The AI was used for:
+The codebase for this website was generated with assistance from OpenAI'. The AI was used for:
 
 - HTML structure and Bootstrap implementation
 - CSS custom styling and responsive design
