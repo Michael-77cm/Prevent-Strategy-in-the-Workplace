@@ -37,17 +37,6 @@ This code is provided for educational/demonstration purposes.
 
 ## References & Credits for Prevent Strategy Website
 ## 1. Framework & Libraries
-
-| Framework & Libraries       | Notes 
-|
-| ---------------------|      | ------------------------------------------------------
--------|
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
 
 Source: https://getbootstrap.com/
@@ -90,18 +79,24 @@ Resource: https://educateagainsthate.com/
 
 UK Government and stakeholder partnership
 
-Image Credits
-Header Background Image
+| Image Credits             |                                |
+| ---                       | ---                            |
+| Header                    | Background Image               |
+| Source:                   | Unsplash (Royalty-free images) |
+| Photographer:             | [Unsplash License]             |  
+| Image ID:                 | photo-1553877522-43269d4ea984  |
+| URL:        | https://images.unsplash.com/photo-1553877522-43269d4ea984 |
+| Note:       | Gradient overlay applied for visual effect |
 
-Source: Unsplash (Royalty-free images)
 
-Photographer: [Unsplash License]
+| Frameworks & Libraries      | Character|
+|-----------------------------|----------|
+| Backtick                    | `        |
+| Pipe                        | \|       |
 
-Image ID: photo-1553877522-43269d4ea984
 
-URL: https://images.unsplash.com/photo-1553877522-43269d4ea984
 
-Note: Gradient overlay applied for visual effect
+
 
 ## 3. Reporting & Contact Information
 Emergency Services Number: 999 (UK standard)
