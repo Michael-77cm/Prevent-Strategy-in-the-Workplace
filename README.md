@@ -1,5 +1,37 @@
 # Flagstone-Project-2511
 
+# Prevent Strategy Workplace Website
+
+## Project Overview
+Informational website about the UK Prevent strategy in workplace settings.
+
+## Development
+- **Framework**: Bootstrap 5.3.0
+- **Icons**: Font Awesome 6.4.0
+- **Responsive Design**: Mobile-first approach
+
+## AI Assistance Disclosure
+The codebase for this website was generated with significant assistance from OpenAI's ChatGPT (GPT-4 model). The AI was used for:
+
+- HTML structure and Bootstrap implementation
+- CSS custom styling and responsive design
+- JavaScript functionality for interactive elements
+- Content organization and layout design
+
+Human developer contributions included:
+- Requirements specification and review
+- Content verification and accuracy checking
+- Custom modifications and testing
+- Deployment configuration
+
+## Important Notes
+- This is a demonstration/educational website
+- Not an official government resource
+- Always refer to official UK government sources for Prevent strategy information
+
+## License
+This code is provided for educational/demonstration purposes.
+
 References & Credits for Prevent Strategy Website
 1. Framework & Libraries
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
@@ -181,3 +213,5 @@ Education: Department for Education Prevent guidance
 Healthcare: NHS England Prevent guidance
 
 Local Authorities: Statutory Prevent guidance
+
+
