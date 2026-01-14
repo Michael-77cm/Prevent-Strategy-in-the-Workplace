@@ -34,6 +34,12 @@ This code is provided for educational/demonstration purposes.
 
 ## References & Credits for Prevent Strategy Website
 ## 1. Framework & Libraries
+
+| Framework & Libraries       | Notes 
+|
+| ---------------------|      | ------------------------------------------------------
+-------|
+
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
 
 Source: https://getbootstrap.com/
