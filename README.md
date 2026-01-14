@@ -1,6 +1,6 @@
 # Flagstone-Project-2511
 
-# Prevent Strategy Workplace Website
+# Prevent Strategy in the Workplace Website
 
 ## Project Overview
 Informational website about the UK Prevent strategy in workplace settings.
